@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenMP3/OpenMP3.vcxproj" Id="0316bd01-681b-4f62-be92-b70eeb5a7967" />
+  <Project Path="zad2/zad2.vcxproj" Id="1f603a7b-df0d-4261-89b2-a5425befc469" />
+  <Project Path="zad3/zad3.vcxproj" Id="b9374dcf-2738-44e5-b68b-818a542c4fd1" />
+  <Project Path="zad4/zad4.vcxproj" Id="0f6b62b1-6970-4c80-83cf-91ade9840981" />
+  <Project Path="zad5/zad5.vcxproj" Id="baf7969c-2ca6-4772-b358-4e7f159b3609" />
+</Solution>

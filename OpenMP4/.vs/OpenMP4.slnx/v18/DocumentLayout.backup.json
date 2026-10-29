@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio Project\\OpenMP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAA5E97-FB82-4D97-9392-A053BF13D33C}|OpenMP4\\OpenMP4.vcxproj|D:\\Visual studio Project\\OpenMP4\\OpenMP4\\OpenMP4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AAA5E97-FB82-4D97-9392-A053BF13D33C}|OpenMP4\\OpenMP4.vcxproj|solutionrelative:OpenMP4\\OpenMP4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77E6B3EE-71D4-47F1-BD41-F27E04585BBD}|zad2\\zad2.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad2\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77E6B3EE-71D4-47F1-BD41-F27E04585BBD}|zad2\\zad2.vcxproj|solutionrelative:zad2\\zad2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E261575E-FFB4-4EC2-8375-280A6D20562F}|zad3\\zad3.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad3\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E261575E-FFB4-4EC2-8375-280A6D20562F}|zad3\\zad3.vcxproj|solutionrelative:zad3\\zad3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383F2E6B-E398-4BDB-B23E-A26DA1C153CA}|zad4\\zad4.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad4\\zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{383F2E6B-E398-4BDB-B23E-A26DA1C153CA}|zad4\\zad4.vcxproj|solutionrelative:zad4\\zad4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B451A734-8FE3-47A0-A23F-6BE0DF1354DE}|zad5\\zad5.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad5\\zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B451A734-8FE3-47A0-A23F-6BE0DF1354DE}|zad5\\zad5.vcxproj|solutionrelative:zad5\\zad5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF00FE-BC63-41C3-B31A-5892064BC417}|zad8\\zad8.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad8\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4AF00FE-BC63-41C3-B31A-5892064BC417}|zad8\\zad8.vcxproj|solutionrelative:zad8\\zad8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9949A6C1-21C1-4E31-8D13-65A4A1FBCA37}|zad6\\zad6.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad6\\zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9949A6C1-21C1-4E31-8D13-65A4A1FBCA37}|zad6\\zad6.vcxproj|solutionrelative:zad6\\zad6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E35EE8-5295-403F-9DCD-AD6503C8065C}|zad7\\zad7.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad7\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E35EE8-5295-403F-9DCD-AD6503C8065C}|zad7\\zad7.vcxproj|solutionrelative:zad7\\zad7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B34B8C6-8E7A-4178-8DA0-2B5985F926FF}|zad9\\zad9.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad9\\zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B34B8C6-8E7A-4178-8DA0-2B5985F926FF}|zad9\\zad9.vcxproj|solutionrelative:zad9\\zad9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F432F2-4144-45BF-8B50-972F4458ABA2}|zad10\\zad10.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad10\\zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8F432F2-4144-45BF-8B50-972F4458ABA2}|zad10\\zad10.vcxproj|solutionrelative:zad10\\zad10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7409D15-261B-4085-9DAC-49305F9F8D82}|zad11\\zad11.vcxproj|D:\\Visual studio Project\\OpenMP4\\zad11\\zad11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7409D15-261B-4085-9DAC-49305F9F8D82}|zad11\\zad11.vcxproj|solutionrelative:zad11\\zad11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "zad11.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad11\\zad11.cpp",
+              "RelativeDocumentMoniker": "zad11\\zad11.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad11\\zad11.cpp",
+              "RelativeToolTip": "zad11\\zad11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:22:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "zad10.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad10\\zad10.cpp",
+              "RelativeDocumentMoniker": "zad10\\zad10.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad10\\zad10.cpp",
+              "RelativeToolTip": "zad10\\zad10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:21:46.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "zad9.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad9\\zad9.cpp",
+              "RelativeDocumentMoniker": "zad9\\zad9.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad9\\zad9.cpp",
+              "RelativeToolTip": "zad9\\zad9.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:21:30.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zad8.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad8\\zad8.cpp",
+              "RelativeDocumentMoniker": "zad8\\zad8.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad8\\zad8.cpp",
+              "RelativeToolTip": "zad8\\zad8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:21:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zad7.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad7\\zad7.cpp",
+              "RelativeDocumentMoniker": "zad7\\zad7.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad7\\zad7.cpp",
+              "RelativeToolTip": "zad7\\zad7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:20:56.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zad6.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad6\\zad6.cpp",
+              "RelativeDocumentMoniker": "zad6\\zad6.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad6\\zad6.cpp",
+              "RelativeToolTip": "zad6\\zad6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:20:41.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zad5.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad5\\zad5.cpp",
+              "RelativeDocumentMoniker": "zad5\\zad5.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad5\\zad5.cpp",
+              "RelativeToolTip": "zad5\\zad5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:20:28.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zad4.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad4\\zad4.cpp",
+              "RelativeDocumentMoniker": "zad4\\zad4.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad4\\zad4.cpp",
+              "RelativeToolTip": "zad4\\zad4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:15:03.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zad3.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad3\\zad3.cpp",
+              "RelativeDocumentMoniker": "zad3\\zad3.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad3\\zad3.cpp",
+              "RelativeToolTip": "zad3\\zad3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:11:52.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zad2.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\zad2\\zad2.cpp",
+              "RelativeDocumentMoniker": "zad2\\zad2.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\zad2\\zad2.cpp",
+              "RelativeToolTip": "zad2\\zad2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:11:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenMP4.cpp",
+              "DocumentMoniker": "D:\\Visual studio Project\\OpenMP4\\OpenMP4\\OpenMP4.cpp",
+              "RelativeDocumentMoniker": "OpenMP4\\OpenMP4.cpp",
+              "ToolTip": "D:\\Visual studio Project\\OpenMP4\\OpenMP4\\OpenMP4.cpp",
+              "RelativeToolTip": "OpenMP4\\OpenMP4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T11:08:45.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
